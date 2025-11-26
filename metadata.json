@@ -1,0 +1,5 @@
+{
+  "name": "CipherBox haseeb",
+  "description": "A secure, client-side encryption and decryption tool using AES and Base64. Encrypt messages instantly and share them safely.",
+  "requestFramePermissions": []
+}
